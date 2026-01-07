@@ -66,3 +66,8 @@ Monthly and yearly sales trends
 ✅ Conclusion
 
 This project demonstrates effective use of Excel for data analysis and dashboard creation, enabling quick decision-making through clear and interactive visualizations.
+
+Dashboard Image
+
+<img width="1292" height="633" alt="Screenshot 2026-01-07 114542" src="https://github.com/user-attachments/assets/ac3d6d47-b0a7-4a0f-98f1-3f1ddb024d47" />
+
